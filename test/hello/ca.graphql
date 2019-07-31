@@ -1,0 +1,20 @@
+type Tool {
+  id: ID!
+  tool: String!
+  material: String
+}
+
+type People {
+   id: ID!
+   name: String!
+   age: Int
+}
+
+type Query {
+  all: [People!]!
+  altAll: [Tool!]!
+}
+
+schema {
+  query: Query
+}
