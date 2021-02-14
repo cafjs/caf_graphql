@@ -13,9 +13,6 @@
       "graphql-tools": "^4.0.5"
     },
     "devDependencies": {
-        "graphql" : "^14.4.2",
-        "graphql-import" : "^0.7.1",
-        "graphql-tools": "^4.0.5",
         "eslint": "^6.8.0",
         "nodeunit" : ">=0.9",
         "caf_core" : "^0.4.0",
