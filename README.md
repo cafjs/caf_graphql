@@ -6,7 +6,7 @@ See https://www.cafjs.com
 
 ## Library for Continuous Queries with GraphQL
 
-[![Build Status](https://travis-ci.org/cafjs/caf_graphql.svg?branch=master)](https://travis-ci.org/cafjs/caf_graphql)
+[![Build Status](https://github.com/cafjs/caf_graphql/actions/workflows/push.yml/badge.svg)](https://github.com/cafjs/caf_graphql/actions/workflows/push.yml)
 
 This repository contains a `Caf.js` library that implements continuous queries with GraphQL.
 
