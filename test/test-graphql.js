@@ -73,7 +73,7 @@ module.exports = {
         test.expect(5);
         var lastId;
         try {
-            s1 = new cli.Session('ws://root-graphql.vcap.me:3000',
+            s1 = new cli.Session('ws://root-graphql.localtest.me:3000',
                                  from1, {
                                      from : from1
                                  });
